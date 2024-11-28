@@ -1,8 +1,15 @@
-2024-11-28 19:31:12,807 - model_evaluation - DEBUG - Parameters retrieved from params.yaml
-2024-11-28 19:31:12,808 - model_evaluation - ERROR - File not found: model.pkl
-2024-11-28 19:31:12,808 - model_evaluation - ERROR - Failed to complete the model evaluation process: [Errno 2] No such file or directory: 'model.pkl'
-2024-11-28 19:31:38,646 - model_evaluation - DEBUG - Parameters retrieved from params.yaml
-2024-11-28 19:31:38,781 - model_evaluation - DEBUG - Model loaded from ./models/model.pkl
-2024-11-28 19:31:38,789 - model_evaluation - DEBUG - Data loaded from ./data/processed/test_tfidf.csv
-2024-11-28 19:31:38,806 - model_evaluation - DEBUG - Model evaluation metrics calculated
-2024-11-28 19:32:08,130 - model_evaluation - DEBUG - Metrics saved to reports/metrics.json
+2024-11-28 20:19:13,033 - model_evaluation - DEBUG - Parameters retrieved from params.yaml
+2024-11-28 20:19:13,134 - model_evaluation - DEBUG - Model loaded from ./models/model.pkl
+2024-11-28 20:19:13,141 - model_evaluation - DEBUG - Data loaded from ./data/processed/test_tfidf.csv
+2024-11-28 20:19:13,166 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2024-11-28 20:19:13,694 - model_evaluation - DEBUG - Metrics saved to reports/metrics.json
+2024-11-28 20:30:41,595 - model_evaluation - DEBUG - Parameters retrieved from params.yaml
+2024-11-28 20:30:41,717 - model_evaluation - DEBUG - Model loaded from ./models/model.pkl
+2024-11-28 20:30:41,725 - model_evaluation - DEBUG - Data loaded from ./data/processed/test_tfidf.csv
+2024-11-28 20:30:41,749 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2024-11-28 20:30:42,190 - model_evaluation - DEBUG - Metrics saved to reports/metrics.json
+2024-11-28 20:32:55,105 - model_evaluation - DEBUG - Parameters retrieved from params.yaml
+2024-11-28 20:32:55,235 - model_evaluation - DEBUG - Model loaded from ./models/model.pkl
+2024-11-28 20:32:55,244 - model_evaluation - DEBUG - Data loaded from ./data/processed/test_tfidf.csv
+2024-11-28 20:32:55,268 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2024-11-28 20:32:55,714 - model_evaluation - DEBUG - Metrics saved to reports/metrics.json

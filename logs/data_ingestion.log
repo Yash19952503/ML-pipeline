@@ -1,10 +1,8 @@
-2024-11-27 21:53:37,244 - data_ingestion - ERROR - File not found: params.yaml
-2024-11-27 21:53:37,245 - data_ingestion - ERROR - Failed to complete the data ingestion process: [Errno 2] No such file or directory: 'params.yaml'
-2024-11-27 22:01:22,168 - data_ingestion - DEBUG - Parameters retrieved from params.yaml
-2024-11-27 22:01:23,031 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/vikashishere/Datasets/main/spam.csv
-2024-11-27 22:01:23,044 - data_ingestion - DEBUG - Data preprocessing completed
-2024-11-27 22:01:23,082 - data_ingestion - DEBUG - Train and test data saved to ./data\raw
-2024-11-27 22:30:42,587 - data_ingestion - DEBUG - Parameters retrieved from params.yaml
-2024-11-27 22:30:43,377 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/vikashishere/Datasets/main/spam.csv
-2024-11-27 22:30:43,380 - data_ingestion - DEBUG - Data preprocessing completed
-2024-11-27 22:30:43,417 - data_ingestion - DEBUG - Train and test data saved to ./data\raw
+2024-11-28 20:30:32,960 - data_ingestion - DEBUG - Parameters retrieved from params.yaml
+2024-11-28 20:30:33,456 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/Yash19952503/ML-pipeline/refs/heads/main/experiments/spam.csv
+2024-11-28 20:30:33,458 - data_ingestion - DEBUG - Data preprocessing completed
+2024-11-28 20:30:33,474 - data_ingestion - DEBUG - Train and test data saved to ./data\raw
+2024-11-28 20:32:46,781 - data_ingestion - DEBUG - Parameters retrieved from params.yaml
+2024-11-28 20:32:46,925 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/Yash19952503/ML-pipeline/refs/heads/main/experiments/spam.csv
+2024-11-28 20:32:46,928 - data_ingestion - DEBUG - Data preprocessing completed
+2024-11-28 20:32:46,951 - data_ingestion - DEBUG - Train and test data saved to ./data\raw
