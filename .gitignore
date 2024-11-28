@@ -1,2 +1,6 @@
-
+/data
 /models
+data/raw
+data/interim
+data/processed
+*.data

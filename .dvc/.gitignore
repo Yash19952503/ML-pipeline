@@ -1,3 +1,11 @@
 /config.local
 /tmp
 /cache
+*.data
+/models
+/reports
+/data
+/models
+data/raw
+data/interim    
+data/processed
