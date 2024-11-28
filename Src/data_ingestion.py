@@ -5,6 +5,7 @@ import logging
 import yaml
 
 
+
 # Ensure the "logs" directory exists
 log_dir = 'logs'
 os.makedirs(log_dir, exist_ok=True)
@@ -89,7 +90,7 @@ def main():
         params = load_params(params_path='params.yaml')
         test_size = params['data_ingestion']['test_size']
         # test_size = 0.2
-        data_path = 'https://raw.githubusercontent.com/vikashishere/Datasets/main/spam.csv'
+        data_path = 'https://raw.githubusercontent.com/Yash19952503/ML-pipeline/refs/heads/main/experiments/spam.csv'
         df = load_data(data_url=data_path)
         final_df = preprocess_data(df)
         train_data, test_data = train_test_split(final_df, test_size=test_size, random_state=2)
